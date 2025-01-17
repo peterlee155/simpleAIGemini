@@ -7,7 +7,6 @@ A modern, responsive AI chat interface powered by Google's Gemini 1.5 model. Bui
 ## Features
 
 - 🤖 Real-time AI responses using Gemini 1.5
-- 💬 Clean and intuitive chat interface
 - 🎨 Modern UI with smooth animations
 - 📱 Fully responsive design
 - ⚡ Built with performance in mind
