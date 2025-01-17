@@ -2,7 +2,7 @@
 
 A modern, responsive AI chat interface powered by Google's Gemini 1.5 model. Built with React, TypeScript, and Tailwind CSS.
 
-🔗 [Live Demo](https://serene-sunshine-02ee2c.netlify.app/)
+🔗 [Live Demo](https://serene-sunshine-02ee2c.netlify.app/) 
 
 ## Features
 
