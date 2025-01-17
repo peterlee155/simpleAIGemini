@@ -2,7 +2,6 @@
 
 A modern, responsive AI chat interface powered by Google's Gemini 1.5 model. Built with React, TypeScript, and Tailwind CSS.
 
-![AI Assistant Screenshot](https://images.unsplash.com/photo-1700729471341-0b5cec62d0b9?q=80&w=2940&auto=format&fit=crop)
 
 ## Features
 
