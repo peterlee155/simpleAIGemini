@@ -2,6 +2,9 @@
 
 A modern, responsive chat interface for interacting with Google's Gemini AI model. Built with React, TypeScript, and Tailwind CSS.
 
+Check out the live demo:
+
+[Gemini AI Chat](https://gemini-ai-chat-demo.netlify.app)
 
 ## Features
 
