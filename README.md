@@ -4,7 +4,7 @@ A modern, responsive chat interface for interacting with Google's Gemini AI mode
 
 Check out the live demo:
 
-[Gemini AI Chat](https://gemini-ai-chat-demo.netlify.app)
+[Gemini AI Chat](https://spectacular-lokum-f97d61.netlify.app/)
 
 ## Features
 
