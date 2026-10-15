@@ -1,6 +1,6 @@
 import { GoogleGenerativeAI } from '@google/generative-ai';
 
-const genAI = new GoogleGenerativeAI('AIzaSyC4CaUnqUMDkibcri5ukzNw9DUkZ5s4NhI');
+const genAI = new GoogleGenerativeAI(import.meta.env.VITE_GEMINI_API_KEY);
 
 export async function chat(message: string) {
   const model = genAI.getGenerativeModel({ model: 'gemini-pro' });
